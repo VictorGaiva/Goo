@@ -21,6 +21,7 @@ script.on_event(defines.events.on_entity_died, function(event)
   local EntPos  = event.entity.position
   local EntName = event.entity.name
   local EntSurf = event.entity.surface
+
   -- If it is a spitter-spawner
   if EntName == "spitter-spawner" then
     -- 1 Destroy each fire
