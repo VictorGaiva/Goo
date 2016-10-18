@@ -1,0 +1,9 @@
+{
+  "name": "Goo",
+  "version": "0.1.0",
+  "title": "Goo",
+  "author": "BlackSalander",
+  "description": "Adds an enemy made Goo with many interactions with gameplay",
+  "factorio_version": "0.14",
+  "dependencies": ["base >= 0.14.0"]
+}
