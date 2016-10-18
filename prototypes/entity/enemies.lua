@@ -83,7 +83,7 @@ data:extend(
       spawner_idle_animation(3, goo_spitter_spawner_tint)
     },
 
-    --CHANGE
+    --CHANGE maybe?
     result_units = (function()
                      local res = {}
                      res[1] = {"small-biter", {{0.0, 0.3}, {0.35, 0}}}
